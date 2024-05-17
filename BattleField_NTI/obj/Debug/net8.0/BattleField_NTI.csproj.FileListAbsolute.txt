@@ -1,0 +1,14 @@
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\BattleField_NTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\BattleField_NTI.AssemblyInfoInputs.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\BattleField_NTI.AssemblyInfo.cs
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\BattleField_NTI.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\bin\Debug\net8.0\BattleField_NTI.exe
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\bin\Debug\net8.0\BattleField_NTI.deps.json
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\bin\Debug\net8.0\BattleField_NTI.runtimeconfig.json
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\bin\Debug\net8.0\BattleField_NTI.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\bin\Debug\net8.0\BattleField_NTI.pdb
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\BattleField_NTI.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\refint\BattleField_NTI.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\BattleField_NTI.pdb
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\BattleField_NTI.genruntimeconfig.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\BattleField_NTI\BattleField_NTI\obj\Debug\net8.0\ref\BattleField_NTI.dll
