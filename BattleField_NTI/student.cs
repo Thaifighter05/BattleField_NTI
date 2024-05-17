@@ -18,29 +18,35 @@ public class Elev
     private static readonly Random random = new Random();
 
     // Metod för att generera ett slumpmässigt betyg baserat på elevens nivå inom ett visst område
-   public string GetGrade(int kunskap)
+public string GetGrade(int kunskap)
 {
     // Generera ett slumpmässigt betyg från 0 till betygsnivån
     int slumpmässigBetygsnivå = random.Next(kunskap + 1);
     
     // Returnera betyg baserat på den slumpmässiga betygsnivån
+    
+    // Om den slumpmässiga betygsnivån är 0 returneras "F"
     if (slumpmässigBetygsnivå == 0)
     {
         return "F";
     }
+    // Om den slumpmässiga betygsnivån är 1 returneras "E"
     else if (slumpmässigBetygsnivå == 1)
     {
         return "E";
     }
+    // Om den slumpmässiga betygsnivån är 2 returneras "C"
     else if (slumpmässigBetygsnivå == 2)
     {
         return "C";
     }
+    // För alla andra värden returneras "A"
     else
     {
         return "A";
     }
 }
+
 
 
     // Generera ett slumpmässigt betyg inom fotografi
